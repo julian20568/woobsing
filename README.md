@@ -18,9 +18,9 @@ Requisitos para correr proyecto
 
 ################ PASO 3 ####################
 1. para agregar la lista de las palabras ingrese la siguiente dirección en un cliente REST (Postman) con el método POST y copie el contenido que 
-   hay dentro del archivo PalabrasClaves.json y ejecute.
+   hay dentro del proyecto PalabrasClaves.json y ejecute.
    http://127.0.0.1:8000/api/palabras
    
-2. Para ver la lista de palabras claves ingrese la siguiente dirección en un cliente REST (Postman) con el método GET y listo
+2. Para ver la lista de palabras claves ingrese la siguiente dirección en un cliente REST (Postman) con el método GET y listo.
 
 GRACIAS!!!
